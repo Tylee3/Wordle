@@ -1,2 +1,2 @@
 # Wordle and Easy Wordle
-Two games based in terminal which are playable games of wordle and easy wordle (with limited words)
+Wordle being the classic game of guessing a 5 letter word and Easy Wordle being a similar variation of Wordle, but with a hint of the most optimal words to guess.
